@@ -1,4 +1,4 @@
-# CloudyFiles [![GitHub Issues](https://img.shields.io/github/commits-since/CloudyClient/CloudyFiles/v1.0.0/master?color=lightgreen&style=flat-square)](https://github.com/CloudyClient/CloudyFiles/)      [![GitHub Issues](https://img.shields.io/github/issues/CloudyClient/CloudyFiles.svg?style=flat-square&color=lightgreen)](https://github.com/CloudyClient/CloudyFiles/issues)   [![GitHub Downloads](https://img.shields.io/github/downloads/CloudyClient/CloudyFiles/total.svg?style=flat-square&color=lightgreen)](https://github.com/CloudyClient/CloudyFiles/releases) 
+# CloudyFiles [![GitHub Issues](https://img.shields.io/github/commits-since/CloudyClient/CloudyFiles/v1.0.1b/master?color=lightgreen&style=flat-square)](https://github.com/CloudyClient/CloudyFiles/)      [![GitHub Issues](https://img.shields.io/github/issues/CloudyClient/CloudyFiles.svg?style=flat-square&color=lightgreen)](https://github.com/CloudyClient/CloudyFiles/issues)   [![GitHub Downloads](https://img.shields.io/github/downloads/CloudyClient/CloudyFiles/total.svg?style=flat-square&color=lightgreen)](https://github.com/CloudyClient/CloudyFiles/releases) 
 
  **The Lunar Client of Brawlhalla**
  
