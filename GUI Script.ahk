@@ -1,1 +1,0 @@
-SHIFT::  Winset, Alwaysontop, , A
