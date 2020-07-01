@@ -13,7 +13,7 @@
 
 - A Modified, Blurred Background
 
-- @ Mod GUI, to change certain mods without having to exit the game.
+- Mod GUI, to change certain mods without having to exit the game.
 
 - @ FPS Mods
 
